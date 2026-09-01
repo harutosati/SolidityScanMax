@@ -1,4 +1,3 @@
-<!-- fallback_SolidityScanMax_20260901105159_71362 -->
 
 # SolidityScanMax
 
